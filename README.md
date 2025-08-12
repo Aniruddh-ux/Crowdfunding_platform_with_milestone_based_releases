@@ -300,20 +300,6 @@ Found a security vulnerability? Please email us at security@project.com instead 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- [OpenZeppelin](https://openzeppelin.com/) for smart contract security standards
-- [Ethereum Foundation](https://ethereum.org/) for blockchain infrastructure
-- [Remix IDE](https://remix.ethereum.org/) for development tools
-- [Hardhat](https://hardhat.org/) for testing framework
-
-## 📞 Contact & Support
-
-- **Website**: [https://milestone-crowdfunding.com](https://milestone-crowdfunding.com)
-- **Documentation**: [https://docs.milestone-crowdfunding.com](https://docs.milestone-crowdfunding.com)
-- **Discord**: [Join our community](https://discord.gg/milestone-crowdfunding)
-- **Twitter**: [@MilestoneCrowdfunding](https://twitter.com/milestonecrowdfunding)
-- **Email**: support@milestone-crowdfunding.com
 
 ---
 
@@ -321,8 +307,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⭐ Star this repository if you find it helpful!**
 
-Made with ❤️ by [Your Name](https://github.com/yourusername)
+### Contract Details
+<img width="1919" height="1016" alt="image" src="https://github.com/user-attachments/assets/078bca5a-b9f1-4c29-89c9-9c32aa576ab2" />
 
-[🔗 Live Demo](https://demo.milestone-crowdfunding.com) | [📖 Documentation](https://docs.milestone-crowdfunding.com) | [🐛 Report Bug](https://github.com/yourusername/milestone-crowdfunding-platform/issues)
 
 </div>
