@@ -16,27 +16,27 @@ Transparency and accountability are built into the funding process
 The risk of fund misappropriation is significantly reduced
 Global access to funding opportunities is democratized
 Key Features
-🎯 Milestone-Based Fund Release
+# 🎯 Milestone-Based Fund Release
 Funds are released incrementally based on completed milestones
 Each milestone has a predefined percentage of total funds
 Sequential milestone completion ensures structured project development
-💰 Secure Fund Management
+# 💰 Secure Fund Management
 All funds are held in smart contracts until milestone completion
 Automatic refund mechanism for failed campaigns
 Protection against fund misappropriation
-🗳️ Transparent Campaign Management
+# 🗳️ Transparent Campaign Management
 Public campaign details and progress tracking
 Real-time funding status updates
 Complete transaction history on blockchain
-🔐 Contributor Protection
+# 🔐 Contributor Protection
 Automatic refunds if funding goals aren't met
 Milestone-based releases ensure fund utility
 Transparent contributor tracking
-⚡ Smart Contract Automation
+# ⚡ Smart Contract Automation
 Automated fund distribution upon milestone completion
 Self-executing refund mechanisms
 Gas-optimized operations
-📊 Comprehensive Analytics
+# 📊 Comprehensive Analytics
 Campaign performance metrics
 Milestone completion tracking
 Contributor statistics and history
@@ -92,12 +92,12 @@ Create a new campaign with defined milestones
 Share your campaign with potential contributors
 Complete milestones to unlock funds progressively
 Contributors can track progress and receive refunds if needed
-Contributing
+# Contributing
 We welcome contributions from the community! Please read our contributing guidelines and submit pull requests for any improvements.
 
-License
+# License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Support
+# Support
 For support and questions, please join our Discord community or create an issue in the GitHub repository.
 
